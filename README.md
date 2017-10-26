@@ -1,3 +1,3 @@
 # hello-duong
-Hi githug!
+Hi github!
 I am Duong
